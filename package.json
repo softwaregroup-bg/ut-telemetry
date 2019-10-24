@@ -9,7 +9,7 @@
         ]
     },
     "dependencies": {
-        "ut-port-console": "^9.0.2",
+        "ut-port-console": "^9.1.0",
         "ut-port-performance": "^7.1.4"
     },
     "devDependencies": {

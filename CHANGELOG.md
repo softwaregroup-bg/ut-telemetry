@@ -1,3 +1,7 @@
+## [7.1.3](https://github.com/softwaregroup-bg/ut-telemetry/compare/v7.1.2...v7.1.3) (2020-01-29)
+
+
+
 ## [7.1.2](https://github.com/softwaregroup-bg/ut-telemetry/compare/v7.1.1...v7.1.2) (2020-01-29)
 
 

@@ -9,13 +9,13 @@
         ]
     },
     "dependencies": {
-        "ut-port-console": "^9.1.0",
-        "ut-port-performance": "^7.1.4"
+        "ut-port-console": "^9.1.1",
+        "ut-port-performance": "^7.1.5"
     },
     "devDependencies": {
         "sort-keys": "2.0.0",
         "tap": "^12.5.3",
-        "ut-tools": "^6.25.10"
+        "ut-tools": "^6.31.3"
     },
     "peerDependencies": {
         "ut-bus": "^7.5.2",

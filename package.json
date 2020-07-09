@@ -13,13 +13,11 @@
         "ut-port-performance": "^7.1.5"
     },
     "devDependencies": {
-        "sort-keys": "2.0.0",
         "tap": "^12.5.3",
         "ut-tools": "^6.31.3"
     },
     "peerDependencies": {
-        "ut-bus": "^7.5.2",
-        "ut-run": "^10.10.11"
+        "ut-run": "^10.26.2"
     },
     "scripts": {
         "lint": "ut-lint .",

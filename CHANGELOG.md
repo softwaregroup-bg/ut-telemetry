@@ -1,3 +1,12 @@
+# [7.2.0](https://github.com/softwaregroup-bg/ut-telemetry/compare/v7.1.5...v7.2.0) (2020-12-01)
+
+
+### Features
+
+* config layer ([76c1254](https://github.com/softwaregroup-bg/ut-telemetry/commit/76c1254c8d01ad4886a4e767df2d24a9c90e8bde))
+
+
+
 ## [7.1.5](https://github.com/softwaregroup-bg/ut-telemetry/compare/v7.1.4...v7.1.5) (2020-10-29)
 
 

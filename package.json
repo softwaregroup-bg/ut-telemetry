@@ -9,12 +9,12 @@
         ]
     },
     "dependencies": {
-        "ut-port-console": "^9.1.5",
-        "ut-port-performance": "^7.1.8"
+        "ut-port-console": "^9.1.6",
+        "ut-port-performance": "^7.1.9"
     },
     "devDependencies": {
-        "tap": "^12.5.3",
-        "ut-tools": "^6.38.2"
+        "tap": "^16.2.0",
+        "ut-tools": "^6.40.7"
     },
     "peerDependencies": {
         "ut-run": "^10.48.2"

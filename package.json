@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "ut-port-console": "^9.1.9",
-        "ut-port-performance": "^7.2.1"
+        "ut-port-performance": "^7.2.2"
     },
     "devDependencies": {
         "tap": "^16.2.0"
